@@ -5,7 +5,7 @@
 This repository contains two files:
 
 1. **`plot.py`**
-   - This script includes the commands to generate Figure 2 from the paper.
+   - This script includes the commands to generate Figure 2(e-f-g) from the paper.
    - The code has been modified to print the value of the maximum weight change to the terminal.
 
 2. **`sim_plasticity_rule.cpp`**
